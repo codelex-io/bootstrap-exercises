@@ -4,6 +4,8 @@ In these exercises you will learn how to make use of pre-built HTML and CSS temp
 
 Your task is to add Bootstrap to each `index.html` file and following the designs from the provided figma file create beautiful components by using Bootstrap templates.
 
+Add the provided figma file `codelex-bootstrap.fig` to your figma.com profile in `Drafts`.
+
 ## What is Bootstrap?
 
 Bootstrap is a powerful toolkit - a collection of HTML, CSS, and JavaScript tools for creating and building web pages and web applications. It's open-source and free to use.

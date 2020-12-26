@@ -4,8 +4,6 @@ In these exercises you will learn how to make use of pre-built HTML and CSS temp
 
 Your task is to add Bootstrap to each `index.html` file and following the designs from the provided figma file create beautiful components by using Bootstrap templates.
 
-Add the provided figma file `codelex-bootstrap.fig` to your figma.com profile in `Drafts`.
-
 ## What is Bootstrap?
 
 Bootstrap is a powerful toolkit - a collection of HTML, CSS, and JavaScript tools for creating and building web pages and web applications. It's open-source and free to use.
@@ -41,3 +39,24 @@ There are several ways of how to add Bootstrap, but for the purposes of this tas
 [Learn Bootstrap in 5 minutes](https://www.youtube.com/watch?v=nBoHOe4oJLc&ab_channel=AmruthPillai)
 
 All you have to do is find the desired elements in the sidebar of [Docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/) (check out Components) and copy paste them in your project. If some elements need additional styling, do that in `styles.css` files.
+
+## How to access figma files?
+
+1. Create a profile in [figma.com](figma.com).
+2. Download the provided `.fig` files from `Assets` directory.
+
+![Figma tutorial](Assets/figma-download.gif)
+
+3. Add the downloaded `.fig` files to your `Drafts` in the figma homepage. 
+
+    [Importing files into Figma](https://help.figma.com/hc/en-us/articles/360041003114-Import-files-into-Figma)
+
+4. Open the files from `Drafts`.
+
+## How to get styles from figma
+
+![Figma tutorial](Assets/figma-tutorial.gif)
+
+## How to find elements in Bootstrap documentation
+
+![Figma tutorial](Assets/bootstrap.gif)
